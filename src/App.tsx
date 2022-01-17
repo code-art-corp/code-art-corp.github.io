@@ -25,14 +25,14 @@ function App() {
             See our articles at:
           </p>
           <div className='SocialMediaIcons'>
-            <a href='https://dev.to/ionabrabender/creating-a-portfolio-website-using-github-pages-and-react-part-2-16e1'>
+            <a href='https://dev.to/'>
               <div className='Icon'>
                 <img src={devlogo} width={100} alt="logo" />
                 <p className='Description'> Dev </p>
               </div>
             </a>
 
-            <a href='https://dev.to/ionabrabender/creating-a-portfolio-website-using-github-pages-and-react-part-2-16e1'>
+            <a href='https://medium.com/'>
               <div className='Icon'>
                 <img src={mediumlogo} width={100} alt="logo" />
                 <p className='Description'> Medium </p>
